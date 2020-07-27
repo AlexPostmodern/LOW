@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>instruction/InstructionAdd.jpg</file>
+        <file>instruction/InstructionAllWords.jpg</file>
+        <file>background/Choosing.jpg</file>
+        <file>background/Editor.jpg</file>
+        <file>background/MainMenu.jpg</file>
+        <file>background/MainWindow.jpg</file>
+        <file>background/RegWindow.jpg</file>
+        <file>background/Result.jpg</file>
+        <file>background/Test.jpg</file>
+        <file>instruction/InstructionAddGroup.jpg</file>
+        <file>instruction/InstructionDelete.jpg</file>
+        <file>fonts/MISTRAL.TTF</file>
+        <file>background/AdminWindow.jpg</file>
+    </qresource>
+</RCC>
